@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HardinVarghese\\source\\repos\\Flowingly\\FlowinglyTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6209FAB6-FE0E-4572-94B4-C827B9C66289}|FlowinglyTest\\FlowinglyTest.csproj|c:\\users\\hardinvarghese\\source\\repos\\flowingly\\flowinglytest\\flowinglytest\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6209FAB6-FE0E-4572-94B4-C827B9C66289}|FlowinglyTest\\FlowinglyTest.csproj|solutionrelative:flowinglytest\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6209FAB6-FE0E-4572-94B4-C827B9C66289}|FlowinglyTest\\FlowinglyTest.csproj|c:\\users\\hardinvarghese\\source\\repos\\flowingly\\flowinglytest\\flowinglytest\\controllers\\taxservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6209FAB6-FE0E-4572-94B4-C827B9C66289}|FlowinglyTest\\FlowinglyTest.csproj|solutionrelative:flowinglytest\\controllers\\taxservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6209FAB6-FE0E-4572-94B4-C827B9C66289}|FlowinglyTest\\FlowinglyTest.csproj|c:\\users\\hardinvarghese\\source\\repos\\flowingly\\flowinglytest\\flowinglytest\\dto\\taxreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6209FAB6-FE0E-4572-94B4-C827B9C66289}|FlowinglyTest\\FlowinglyTest.csproj|solutionrelative:flowinglytest\\dto\\taxreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6209FAB6-FE0E-4572-94B4-C827B9C66289}|FlowinglyTest\\FlowinglyTest.csproj|c:\\users\\hardinvarghese\\source\\repos\\flowingly\\flowinglytest\\flowinglytest\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6209FAB6-FE0E-4572-94B4-C827B9C66289}|FlowinglyTest\\FlowinglyTest.csproj|solutionrelative:flowinglytest\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\HardinVarghese\\source\\repos\\Flowingly\\FlowinglyTest\\FlowinglyTest\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "FlowinglyTest\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\HardinVarghese\\source\\repos\\Flowingly\\FlowinglyTest\\FlowinglyTest\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "FlowinglyTest\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAgwGsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T16:02:13.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaxReturn.cs",
+              "DocumentMoniker": "C:\\Users\\HardinVarghese\\source\\repos\\Flowingly\\FlowinglyTest\\FlowinglyTest\\Dto\\TaxReturn.cs",
+              "RelativeDocumentMoniker": "FlowinglyTest\\Dto\\TaxReturn.cs",
+              "ToolTip": "C:\\Users\\HardinVarghese\\source\\repos\\Flowingly\\FlowinglyTest\\FlowinglyTest\\Dto\\TaxReturn.cs",
+              "RelativeToolTip": "FlowinglyTest\\Dto\\TaxReturn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:33:52.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaxServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\HardinVarghese\\source\\repos\\Flowingly\\FlowinglyTest\\FlowinglyTest\\Controllers\\TaxServiceController.cs",
+              "RelativeDocumentMoniker": "FlowinglyTest\\Controllers\\TaxServiceController.cs",
+              "ToolTip": "C:\\Users\\HardinVarghese\\source\\repos\\Flowingly\\FlowinglyTest\\FlowinglyTest\\Controllers\\TaxServiceController.cs",
+              "RelativeToolTip": "FlowinglyTest\\Controllers\\TaxServiceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:30:59.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\HardinVarghese\\source\\repos\\Flowingly\\FlowinglyTest\\FlowinglyTest\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "FlowinglyTest\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\HardinVarghese\\source\\repos\\Flowingly\\FlowinglyTest\\FlowinglyTest\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "FlowinglyTest\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:28:40.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
